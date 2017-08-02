@@ -1,4 +1,4 @@
-class add
+class addition
 {
 static int a=1000,b=10000,c=a+b;
 public static void main(String []ani)
